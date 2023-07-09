@@ -1,0 +1,28 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Josefin Slab', serif;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Noto Sans Lepcha', sans-serif; 
+  font-size: 2em;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+}
+
+.name, .bloodtype, .favoritefood {
+  color: rgb(255, 192, 203);
+}
+
+.birth, .hobby, .reason {
+  color: skyblue;
+}
+
+#basic p {
+  font-weight: bold;
+}
